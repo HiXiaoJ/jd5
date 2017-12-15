@@ -26,3 +26,7 @@ ul{
 .float{
 	float: left;
 }
+input[type=button], 
+input[type=submit], 
+input[type=file], 
+button { cursor: pointer; -webkit-appearance: none; } 
