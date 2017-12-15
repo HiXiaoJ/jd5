@@ -101,6 +101,7 @@ input:placeholder{
 	border-radius: 10px;
 	letter-spacing: 5px;
 	padding: 0;
+	background:blue;
 }
 .yh,.mm{
 	position: absolute;
